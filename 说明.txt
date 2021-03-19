@@ -1,1 +1,1 @@
-1.学生管理系统分为5个文件：1.头文件部分link.h；2.函数文件部分link.c；3.主函数文件部分 main.c 。
+1.学生管理系统分为5个文件：1.头文件部分link.h；2.函数文件部分link.c；3.主函数文件部分 main.c 。4.管理员信息保存文件administrator.txt。5.学生信息保存文件student.txt。
